@@ -1,0 +1,4 @@
+MapReduceのin-mapper combiningパターンの動作確認用サンプルプロジェクトです。
+下記記事を参考にしています。
+
+http://www.atmarkit.co.jp/fjava/rensai4/bigdata_java02/03.html
