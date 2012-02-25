@@ -1,0 +1,2 @@
+"HOKKAIDO"	1
+"OKINAWA"	2
